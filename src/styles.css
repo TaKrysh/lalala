@@ -1,0 +1,50 @@
+
+body {
+  font-family: 'Caveat Brush', cursive;
+  background: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%) no-repeat;
+  color: rgb(120, 75, 160);
+}
+
+h1 {
+  text-align: center;
+  padding: 30px ;
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+  color: #bc16c5;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 30px;
+}
+
+h2,
+h4 {
+  font-weight: 250;
+}
+form { 
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  width: 50%;
+ width: 300px;
+  margin: 0 auto;
+ 
+}
+.container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 50%; 
+  width: 50%;
+}
+.date {
+  font-size: small;
+}
+.temp {
+  color: #FA8BFF;
+}
+.search-form {
+  margin-bottom: 20px;
+}
